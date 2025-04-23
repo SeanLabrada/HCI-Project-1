@@ -9,11 +9,11 @@
 .proto {
   display: block;
   width: 300 px;
+  display: flex;
+  justify-content: center;
 }
 
 .blue {
   background: #397327;
   height: 100 px;
-  display: flex;
-  justify-content: center;
 }

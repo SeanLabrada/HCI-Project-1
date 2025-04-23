@@ -2,6 +2,10 @@
   margin-top: 100 px;
 }
 
+.body {
+  margin:0;
+}
+
 .proto {
   display: block;
   width: 300 px;

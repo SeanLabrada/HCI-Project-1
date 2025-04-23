@@ -14,4 +14,6 @@
 .blue {
   background: #397327;
   height: 100 px;
+  display: flex;
+  justify-content: center;
 }

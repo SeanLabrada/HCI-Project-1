@@ -4,5 +4,10 @@
 
 .proto {
   display: block;
-  width: 300px;
+  width: 300 px;
+}
+
+.blue {
+  background: #397327;
+  height: 100 px;
 }

@@ -5,5 +5,7 @@
 .proto {
   display: block;
   width: 300px;
+  display: flex;
+  justify-content: center;
 }
 
